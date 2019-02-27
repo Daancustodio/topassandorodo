@@ -1,0 +1,7 @@
+{
+  "name": "ToPassandoRodo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
