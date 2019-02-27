@@ -6,9 +6,13 @@ import { NavController } from 'ionic-angular';
   templateUrl: 'home.html'
 })
 export class HomePage {
-
+  Opt = "";
   constructor(public navCtrl: NavController) {
 
+  }
+
+  press(txt){
+    this.Opt = txt;
   }
 
 }
